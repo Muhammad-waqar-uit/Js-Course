@@ -24,3 +24,5 @@ jsisfun=33;
 console.log(jsisfun)
 jsisfun='hello-mate'
 console.log(jsisfun)
+
+// all the datatypes.
