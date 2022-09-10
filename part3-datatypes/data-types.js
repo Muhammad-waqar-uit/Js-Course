@@ -26,3 +26,10 @@ jsisfun='hello-mate'
 console.log(jsisfun)
 
 // all the datatypes.
+let now =2022;
+
+const waqar=2000;
+
+console.log(now-waqar);
+//operator precedense
+//mdn mozilla developer network
